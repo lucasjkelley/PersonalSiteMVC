@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PersonalSiteConversion
+build_property.RootNamespace = PersonalSiteConversion
+build_property.ProjectDir = C:\Users\Student\Documents\Visual Studio 2022\Projects\08_CORE1\PersonalSiteMVC\PersonalSiteConversion\PersonalSiteConversion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Student\Documents\Visual Studio 2022\Projects\08_CORE1\PersonalSiteMVC\PersonalSiteConversion\PersonalSiteConversion
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/EmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/Links.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/PortfolioDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/PortfolioDetails2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW9EZXRhaWxzMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/PortfolioDetails3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW9EZXRhaWxzMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/PortfolioDetails4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW9EZXRhaWxzNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/PortfolioDetails5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW9EZXRhaWxzNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Home/Resume.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Shared/_LayoutLightbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMaWdodGJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Shared/_OriginalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmlnaW5hbExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/08_CORE1/PersonalSiteMVC/PersonalSiteConversion/PersonalSiteConversion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

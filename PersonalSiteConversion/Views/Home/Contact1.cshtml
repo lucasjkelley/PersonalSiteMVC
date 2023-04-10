@@ -1,0 +1,121 @@
+﻿
+@model PersonalSiteConversion.Models.ContactViewModel
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<main id="main">
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+        <div class="container" data-aos="fade-up">
+            <div class="section-title">
+                <h2>Contact</h2>
+                <p>
+                    Say hello! Feel free to send me a message below or contact me
+                    directly.
+                </p>
+            </div>
+
+            <div>
+                <iframe style="border: 0; width: 100%; height: 270px"
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d183638.5866000568!2d-94.70612690613933!3d39.035821578005795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1676837597064!5m2!1sen!2sus"
+                        width="600"
+                        height="450"
+                        style="border: 0"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-lg-4">
+                    <div class="info">
+                        <div class="address">
+                            <i class="bi bi-geo-alt"></i>
+                            <h4>Location:</h4>
+                            <p>Overland Park, KS, USA</p>
+                        </div>
+
+                        <div class="email">
+                            <i class="bi bi-envelope"></i>
+                            <h4>Email:</h4>
+                            <p>lucas.j.kelley@gmail.com</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-8 mt-5 mt-lg-0">
+                    <form asp-action="forms/contact.php"
+                          method="post"
+                          role="form"
+                          class="php-email-form">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+                            <div class="col-md-6 form-group">
+                                <input asp-for = "Name"
+                                       class="form-control"
+                                       id="name"
+                                       placeholder="Your Name"
+                                       required />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 form-group mt-3 mt-md-0">
+                                <input asp-for="Email"
+                                       class="form-control"
+                                       
+                                       id="email"
+                                       placeholder="Your Email"
+                                       required />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group mt-3">
+                            <input asp-for="Subject"
+                                   class="form-control"
+                                   
+                                   id="subject"
+                                   placeholder="Subject"
+                                   required />
+                            <span asp-validation-for="Subject" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mt-3">
+                            <textarea asp-for="Message"
+                                      class="form-control"
+                                      rows="5"
+                                      placeholder="Message"
+                                      required></textarea>
+                            <span asp-validation-for="Message" class="text-danger"></span>
+                        </div>
+                        <div class="my-3">
+                            
+                            <div class="loading">Loading</div>
+                            
+                            <!-- Error Section -->
+                            @if (ViewBag.ErrorMessage != null)
+                            {
+                                <div class="row font-italic">
+                                    <p class="text-danger" style="font-style: italic">
+                                        @Html.Raw(ViewBag.ErrorMessage)
+                                    </p>
+                                </div>
+                            }
+                            @*<div class="sent-message">
+                                Your message has been sent. Thank you!
+                            </div>*@
+                        </div>
+                        <div class="text-center">
+                            <button type="submit">Send Message</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Contact Section -->
+</main>
+<!-- End #main -->
+@section scripts{
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+}

@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Portfolio Details";
+    Layout = "~/Views/Shared/_LayoutLightbox.cshtml";
+}
+
+<main id="main">
+
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="portfolio-details" class="portfolio-details">
+        <div class="container">
+
+            <div class="row gy-4">
+
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img class="img-fluid vh-75 m-auto" src="~/assets/img/portfolio/dungeon.jpg" alt="Picture of Skulls">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img class="img-fluid vh-75 m-auto" src="~/assets/img/portfolio/home_page.JPG" alt="ConsoleApp Home Page">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img class="img-fluid vh-75 m-auto" src="~/assets/img/portfolio/old_castle_level.JPG" alt="Castle level">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="portfolio-info">
+                        <h3>DUNGEON of DEMONS</h3>
+                        <ul>
+                            <li><strong>Category</strong>: Console Application</li>
+                            <li><strong>Client</strong>: Centriq Project</li>
+                            <li><strong>Project date</strong>: 01 March, 2023</li>
+                            <li><strong>GitHub URL</strong>: <a href="https://github.com/lucasjkelley/DungeonApplication">GitHub/DungeonApplication</a></li>
+                        </ul>
+                    </div>
+                    <div class="portfolio-description">
+                        <h2>A Text-based Adventure Game</h2>
+                        <p>
+                            The Dungeon app created was a .NET Core Console Application where the foundational concepts of C# as a language were learned. <br><br>The game allows you to choose a main character, or "Hero", and also gives you weapon options that have different stats.  I also incorporated boosted stats based on the type of character or weapon.  The game randomizes the "Dungeon" you're in and places a randomized "Demon" to battle. You will encounter lesser demons more often than bosses.  Full combat functionality is in play, so both player and npc can hit or miss at different amounts. Since it is randomized, the only way it ends is if you die or exit.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Portfolio Details Section -->
+
+</main><!-- End #main -->

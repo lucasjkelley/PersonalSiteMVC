@@ -1,0 +1,135 @@
+﻿@{
+    ViewData["Title"] = "Links";
+}
+
+<main id="main">
+
+    <!-- ======= Links Section ======= -->
+    <section id="centriq" class="centriq">
+        <div class="container">
+            <h2>Centriq Classmates</h2>
+            <div class="row">
+                <div class="class col-md-12">
+                    <p>
+                        Here are the folks that completed our training together.  There are also links to their personal sites and LinkedIn, so take a look!
+                    </p>
+                </div>
+            </div>
+
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 justify-content-center mb-4">
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/links Photos/Jason Pinkston.jpg" class="card-img-top" alt="Jason Pinkston">
+                        <div class="card-body text-light">
+                            <hr>
+                           @* @foreach (var link in LinksViewModel.GetLinks())
+                            {
+                                @Html.Raw(link)
+                            }*@
+                            <h4 class="card-title text-center">Jason Pinkston</h4>
+                            <hr>
+                            <a href="http://jpinkston.com" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/jpinky82" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/jason-pinkston-48224243/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/Links Photos/Tanner_Hulett.png" class="card-img-top" alt="Tanner Hulett">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Tanner Hulett</h4>
+                            <hr>
+                            <a href="http://tannerhulett.com" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/tannerhulett" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/tanner-hulett-4a8555264/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/Links Photos/B_Shrout.png" class="card-img-top" alt="Brodi Shrout">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Brodi Shrout</h4>
+                            <hr>
+                            <a href="http://www.brodishrout.com/" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/BrodiShrout" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/brodi-shrout-8223a8266/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/Links Photos/Efrain_Santiago.png" class="card-img-top" alt="Efrain Santiago">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Efrain Santiago</h4>
+                            <hr>
+                            <a href="http://www.SantiagoEfrain.com" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/SantiagoEfrain" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/efrain-santiago-b373a0268/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 justify-content-center mb-4">
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/Links Photos/Jared_Alcala.png" class="card-img-top" alt="Jared Alcala">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Jared Alcala</h4>
+                            <hr>
+                            <a href="http://jaredalcala.com" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/JaredAlcala" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/jared-alcala-667806260/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/Links Photos/Steve_Rogers.png" class="card-img-top" alt="Steve Rogers">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Steve Rogers</h4>
+                            <hr>
+                            <a href="http://sdrogers.net" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/SteveRogers1215" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/steve-rogers-b2427679/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/Links Photos/Will_March.png" class="card-img-top" alt="Will March">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Will March</h4>
+                            <hr>
+                            <a href="http://willmarch.net" target="_blank" class="btn btn-success">Website</a>
+                            <a href="http://github.com/willmarch1" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/willmarch" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card bg-dark">
+                        <img src="~/assets/img/links photos/Kellan_Campbell.png" class="card-img-top" alt="Kellan Campbell">
+                        <div class="card-body text-light">
+                            <hr>
+                            <h4 class="card-title text-center">Kellan Campbell</h4>
+                            <hr>
+                            <a href="http://www.kellancampbell.com/" target="_blank" class="btn btn-success">Website</a>
+                            <a href="https://github.com/KJCampbell" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                            <a href="http://www.linkedin.com/in/kellan-campbell-084227267/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Services Section -->
+
+</main><!-- End #main -->
