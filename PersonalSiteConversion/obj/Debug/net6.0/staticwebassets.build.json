@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sXlZ60Vc+lqLFlqtXvyQG4y/c1bhjD1P1B9LKOVAZw4=",
+  "Hash": "luwOSg5S3qPE5gEhqdQHNUcuHmvxbrvgcjNcbxA5Cz8=",
   "Source": "PersonalSiteConversion",
   "BasePath": "_content/PersonalSiteConversion",
   "Mode": "Default",
@@ -1579,6 +1579,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\react.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react2.JPG",
+      "SourceId": "PersonalSiteConversion",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\",
+      "BasePath": "_content/PersonalSiteConversion",
+      "RelativePath": "assets/img/portfolio/react2.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\react2.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react3.JPG",
+      "SourceId": "PersonalSiteConversion",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\",
+      "BasePath": "_content/PersonalSiteConversion",
+      "RelativePath": "assets/img/portfolio/react3.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\react3.JPG"
     },
     {
       "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\SAT.jpg",

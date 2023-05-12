@@ -141,6 +141,14 @@
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react.jpg"
     },
     {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react2.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react3.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react3.JPG"
+    },
+    {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
