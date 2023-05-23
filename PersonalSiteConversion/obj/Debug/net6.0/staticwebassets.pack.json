@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\assets\\docs\\Luke_Kelley_Resume.pdf"
     },
     {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\APIBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\APIBadge.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\CSharpBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\CSharpBadge.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\FrontEndBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\FrontEndBadge.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\GraduateBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\GraduateBadge.png"
+    },
+    {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\Icons\\LK_BrandingSuite-02.png",
       "PackagePath": "staticwebassets\\assets\\img\\Icons\\LK_BrandingSuite-02.png"
     },
@@ -35,6 +51,10 @@
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\Icons\\LK_BrandingSuite-07.png",
       "PackagePath": "staticwebassets\\assets\\img\\Icons\\LK_BrandingSuite-07.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\JavaScriptBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\JavaScriptBadge.png"
     },
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\KC-air-balloon.jpg",
@@ -105,6 +125,18 @@
       "PackagePath": "staticwebassets\\assets\\img\\Links Photos\\Will_March.png"
     },
     {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\MVCBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\MVCBadge.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\ProfessionalismBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ProfessionalismBadge.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\SQLBadge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\SQLBadge.png"
+    },
+    {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\head-shot.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\head-shot.jpg"
     },
@@ -113,12 +145,68 @@
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\API.jpg"
     },
     {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Api_snip_1.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Api_snip_1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Api_snip_2.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Api_snip_2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Api_snip_3.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Api_snip_3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Atomic_S_1.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Atomic_S_1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Atomic_S_2.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Atomic_S_2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Atomic_S_3.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Atomic_S_3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\Atomic_S_4.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\Atomic_S_4.PNG"
+    },
+    {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\SAT.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\SAT.jpg"
     },
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\StoreFront.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\StoreFront.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_1.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_2.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_3.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\borderlands_storefront_4.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\borderlands_storefront_4.PNG"
     },
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\coming_soon.jpg",
@@ -147,6 +235,18 @@
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react3.JPG",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react_todo_1.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react_todo_1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react_todo_2.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react_todo_2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\img\\portfolio\\react_todo_3.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\react_todo_3.PNG"
     },
     {
       "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\08_CORE1\\PersonalSiteMVC\\PersonalSiteConversion\\PersonalSiteConversion\\wwwroot\\assets\\js\\main.js",

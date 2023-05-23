@@ -9,7 +9,7 @@
 #region General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif !important;
+  font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
@@ -221,7 +221,8 @@ h6 {
   margin-left: 5px;
 }
 
-.navbar > ul > li > a:before {
+.navbar > ul > li > a:before
+ {
   content: "";
   position: absolute;
   width: 0;
@@ -607,6 +608,11 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about .row img {
+    border-radius: 10px;
+}
+
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -736,6 +742,15 @@ section.container {
 }
 .resume .button-container-div {
   text-align: center;
+}
+
+.resume.badges {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.resume #badges img {
+    align-content: center;
+    width: 28vh;
 }
 
 /*--------------------------------------------------------------

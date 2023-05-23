@@ -14,7 +14,7 @@
           rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link href="~/https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
           rel="stylesheet" />
 
     <!-- Vendor CSS Files -->
@@ -47,31 +47,19 @@
                 
                 <a href="/"><img src="~/assets/img/Icons/LK_BrandingSuite-02.png" />  Luke Kelley</a>
             </h1>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
+            <!-- .navbar -->
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    @*<li class="active">@Html.ActionLink("Home", "Index", "Home")</li>*@
-                    <li class="@((ViewBag.PageName == "HomePage") ? "active" : "")"><a href="@Url.Action("Index","Home")">Home</a></li>
-                    <li class="@((ViewBag.PageName == "About") ? "active" : "")"><a href="@Url.Action("About","Home")">About</a></li>
-                    <li class="@((ViewBag.PageName == "Resume") ? "active" : "")"><a href="@Url.Action("Resume","Home")">Resume</a></li>
-                    <li class="@((ViewBag.PageName == "Portfolio") ? "active" : "")"><a href="@Url.Action("Portfolio","Home")">Portfolio</a></li>
-                    <li class="@((ViewBag.PageName == "Links") ? "active" : "")"><a href="@Url.Action("Links","Home")">Links</a></li>
-                    <li class="@((ViewBag.PageName == "Contact") ? "active" : "")"><a href="@Url.Action("Contact","Home")">Contact</a></li>
-
-
-
-                    @*<li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Resume", "Resume", "Home")</li>
-                    <li>@Html.ActionLink("Portfolio", "Portfolio", "Home")</li>
-                    <li>@Html.ActionLink("Links", "Links", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                    <li><a class="@((ViewBag.PageName == "HomePage") ? "active" : "")" href="@Url.Action("Index","Home")">Home</a></li>
+                    <li><a class="@((ViewBag.PageName == "About") ? "active" : "")" href="@Url.Action("About","Home")">About</a></li>
+                    <li><a class="@((ViewBag.PageName == "Resume") ? "active" : "")" href="@Url.Action("Resume","Home")">Resume</a></li>
+                    <li><a class="@((ViewBag.PageName == "Portfolio") ? "active" : "")" href="@Url.Action("Portfolio","Home")">Portfolio</a></li>
+                    <li><a class="@((ViewBag.PageName == "Links") ? "active" : "")" href="@Url.Action("Links","Home")">Links</a></li>
+                    <li><a class="@((ViewBag.PageName == "Contact") ? "active" : "")" href="@Url.Action("Contact","Home")">Contact</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
-            <!-- .navbar -->
-
             <div class="header-social-links">
                 <a href="http://www.lucasjkelley.com" class="website"><i class="bi bi-house-fill"></i></a>
                 <a href="https://github.com/lucasjkelley" class="github"><i class="bi bi-github"></i></a>
